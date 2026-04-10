@@ -12,6 +12,9 @@
     align-items: center;
 }
 
+.cabeçalho a {
+    color: white;
+}
 .navegação {
     background-color: red;
 }
